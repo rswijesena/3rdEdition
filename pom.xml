@@ -31,6 +31,7 @@
 		<module>chapter 5/ch05-bankapp-jsr250</module>
 		<module>chapter 5/ch05-localoverride-example</module>
 		<module>chapter 5/ch05-propertyOverrideConfigurer-example</module>
+		<module>chapter 5/ch05-property-placeholder-element-example</module>
 		<module>chapter 5/ch05-propertySourcesPlaceholderConfigurer-example</module>
 		<module>chapter 6/ch06-bankapp-annotations</module>
 		<module>chapter 6/ch06-bankapp-jsr330</module>
